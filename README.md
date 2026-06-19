@@ -1,167 +1,176 @@
 <div align="center">
 
-# ✨ Hi, I'm **Vaishnavi Gomase**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm **Vaishnavi Gomase**
 
-### **Full Stack Java Developer • React Developer • Spring Boot Enthusiast**
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;Building+Modern+Web+Applications;React+%7C+Spring+Boot+%7C+MySQL;Always+Learning+New+Technologies"/>
+### **Full Stack Java Developer | Java & Spring Boot Enthusiast | React Developer**
 
 <p>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+Building scalable backend systems and modern web applications with clean architecture, performance, and user-centric design.
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+Developer;REST+API+%7C+MySQL;Clean+Code+%7C+Modern+UI;Always+Learning+%26+Building"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-Advanced%20Spring%20Boot-orange?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# ⚡ Professional Profile
 
-```text
-💻 Full Stack Java Developer
-🚀 Passionate about creating scalable web applications
-🎯 Focused on clean architecture & modern UI
-🌱 Learning Advanced Spring Boot & React
-🤝 Open to internships and collaboration
+```java
+public class Developer {
+
+    String name = "Vaishnavi Gomase";
+
+    String role = "Full Stack Java Developer";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "React",
+        "REST API",
+        "MySQL"
+    };
+
+    String currentFocus = "Building scalable full stack applications";
+
+}
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Tech Ecosystem
 
 <div align="center">
 
-| Frontend     | Backend         | Database | Tools   |
-| ------------ | --------------- | -------- | ------- |
-| HTML5        | Java            | MySQL    | Git     |
-| CSS3         | Spring Boot     | JPA      | GitHub  |
-| JavaScript   | REST API        | SQL      | VS Code |
-| React.js     | Spring Security |          | Postman |
-| Bootstrap    | Hibernate       |          | STS     |
+|   Frontend   |     Backend     | Database |  Tools  |
+| :----------: | :-------------: | :------: | :-----: |
+|     HTML5    |       Java      |   MySQL  |   Git   |
+|     CSS3     |   Spring Boot   |    JPA   |  GitHub |
+|  JavaScript  | Spring Data JPA |    SQL   | VS Code |
+|   React.js   |     REST API    |          | Postman |
+|   Bootstrap  |    Hibernate    |          |   STS   |
 | Tailwind CSS |                 |          | Eclipse |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Featured Projects
 
 ## 🎓 College Admission Management System
 
-```yaml
-Frontend : React.js
-Backend  : Spring Boot
-Database : MySQL
-API      : REST API
-```
+> **React • Spring Boot • MySQL**
 
-### Features
+✨ Student Registration
 
-✔ Student Admission Portal
+✨ Admission Management
 
-✔ Contact & Enquiry Management
+✨ Contact & Enquiry Module
 
-✔ CRUD Operations
+✨ REST API Integration
 
-✔ Responsive Design
-
-✔ REST API Integration
+✨ Responsive Dashboard
 
 ---
 
-## 🌐 Personal Portfolio Website
+## 🌐 Personal Portfolio
 
-```yaml
-Framework : React.js
-Design    : Modern UI
-Responsive: Yes
-Deployment: GitHub
-```
+> **React • Modern UI • Responsive Design**
 
-### Features
+✨ Professional Landing Page
 
-✔ Professional Landing Page
+✨ Skills & Experience
 
-✔ Skills Showcase
+✨ Project Showcase
 
-✔ Project Gallery
+✨ Contact Form
 
-✔ Contact Section
+✨ Mobile Optimized
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vaishnavigomase&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavigomase&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavigomase&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Development Focus
+# 📈 GitHub Insights
 
 <div align="center">
 
-| ✔ Skills               |
-| ---------------------- |
-| Full Stack Development |
-| REST API Development   |
-| Responsive UI Design   |
-| Database Management    |
-| Clean Code Practices   |
-| Problem Solving        |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vaishnavigomase&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavigomase&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavigomase&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🎯 What I Do
+
+```text
+✓ Full Stack Web Development
+✓ REST API Development
+✓ Responsive UI Design
+✓ Spring Boot Backend Development
+✓ Database Design
+✓ Clean & Maintainable Code
+```
+
+---
+
 # 🌱 Currently Exploring
 
-> 🔹 Spring Security
+```yaml
+Learning:
+  - Spring Security
+  - JWT Authentication
+  - Microservices
+  - Advanced React
+  - System Design
+```
 
-> 🔹 JWT Authentication
+---
 
-> 🔹 Microservices
+# 🏆 Core Values
 
-> 🔹 Advanced React
+<div align="center">
 
-> 🔹 System Design
+| Innovation | Performance | Scalability | Continuous Learning |
+| :--------: | :---------: | :---------: | :-----------------: |
+|    ⭐⭐⭐⭐⭐   |    ⭐⭐⭐⭐⭐    |    ⭐⭐⭐⭐⭐    |        ⭐⭐⭐⭐⭐        |
+
+</div>
 
 ---
 
 <div align="center">
 
-# 📫 Let's Connect
+## 📫 Connect With Me
 
-### **GitHub**
+### GitHub
 
 **github.com/Vaishnavigomase**
 
----
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Vaishnavigomase&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Vaishnavigomase&label=Profile+Views&style=for-the-badge"/>
 
-### ✨
+<br><br>
 
-> **"Building modern applications with clean code, creativity, and continuous learning."**
+### 💡 Developer Philosophy
 
-⭐ **If you like my work, consider giving a Star to my repositories!**
+> **"Building reliable software with clean code, continuous learning, and a passion for solving real-world problems."**
+
+<br>
+
+⭐ **Thank you for visiting my profile. Happy Coding!**
 
 </div>
