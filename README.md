@@ -1,176 +1,158 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm **Vaishnavi Gomase**
+# ⚡ VAISHNAVI GOMASE
 
-### **Full Stack Java Developer | Java & Spring Boot Enthusiast | React Developer**
+### Full Stack Java Developer • Spring Boot • React • REST APIs
 
-<p>
-Building scalable backend systems and modern web applications with clean architecture, performance, and user-centric design.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+Developer;REST+API+%7C+MySQL;Clean+Code+%7C+Modern+UI;Always+Learning+%26+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Java+%7C+Spring+Boot+%7C+React;Clean+Code+%7C+Scalable+Architecture;Always+Learning+Always+Building"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-Advanced%20Spring%20Boot-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRING%20BOOT-161B22?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/MYSQL-111827?style=for-the-badge&logo=mysql"/>
 
 </div>
 
 ---
 
-# ⚡ Professional Profile
+# <img width="22" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png"/> Developer Profile
 
 ```java
-public class Developer {
+class VaishnaviGomase {
 
-    String name = "Vaishnavi Gomase";
+    Role = "Full Stack Java Developer";
 
-    String role = "Full Stack Java Developer";
-
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "React",
-        "REST API",
-        "MySQL"
+    Stack = {
+        Java,
+        Spring Boot,
+        React,
+        MySQL,
+        REST API
     };
 
-    String currentFocus = "Building scalable full stack applications";
+    Passion = "Building scalable applications";
 
+    Motto = "Code • Create • Innovate";
 }
 ```
 
 ---
 
-# 🚀 Tech Ecosystem
+# ⚙️ Tech Stack
 
 <div align="center">
 
-|   Frontend   |     Backend     | Database |  Tools  |
-| :----------: | :-------------: | :------: | :-----: |
-|     HTML5    |       Java      |   MySQL  |   Git   |
-|     CSS3     |   Spring Boot   |    JPA   |  GitHub |
-|  JavaScript  | Spring Data JPA |    SQL   | VS Code |
-|   React.js   |     REST API    |          | Postman |
-|   Bootstrap  |    Hibernate    |          |   STS   |
-| Tailwind CSS |                 |          | Eclipse |
+| Frontend     | Backend         | Database | Tools   |
+| :----------- | :-------------- | :------- | :------ |
+| React.js     | Java            | MySQL    | Git     |
+| HTML5        | Spring Boot     | JPA      | GitHub  |
+| CSS3         | REST API        | SQL      | VS Code |
+| JavaScript   | Hibernate       |          | Postman |
+| Tailwind CSS | Spring Security |          | STS     |
 
 </div>
 
 ---
 
-# 💼 Featured Projects
+# 🚀 Projects
 
 ## 🎓 College Admission Management System
 
-> **React • Spring Boot • MySQL**
+```text
+Frontend  : React.js
+Backend   : Spring Boot
+Database  : MySQL
+API       : REST API
+Architecture : MVC
+```
 
-✨ Student Registration
+✔ Student Management
 
-✨ Admission Management
+✔ Admission Portal
 
-✨ Contact & Enquiry Module
+✔ Contact & Enquiry
 
-✨ REST API Integration
+✔ Responsive Dashboard
 
-✨ Responsive Dashboard
-
----
-
-## 🌐 Personal Portfolio
-
-> **React • Modern UI • Responsive Design**
-
-✨ Professional Landing Page
-
-✨ Skills & Experience
-
-✨ Project Showcase
-
-✨ Contact Form
-
-✨ Mobile Optimized
+✔ CRUD Operations
 
 ---
 
-# 📈 GitHub Insights
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vaishnavigomase&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavigomase&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavigomase&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 What I Do
+## 🌐 Portfolio Website
 
 ```text
-✓ Full Stack Web Development
-✓ REST API Development
-✓ Responsive UI Design
-✓ Spring Boot Backend Development
-✓ Database Design
-✓ Clean & Maintainable Code
+Responsive Design
+Modern UI
+Project Showcase
+Contact Integration
+Performance Optimized
 ```
 
 ---
 
-# 🌱 Currently Exploring
-
-```yaml
-Learning:
-  - Spring Security
-  - JWT Authentication
-  - Microservices
-  - Advanced React
-  - System Design
-```
-
----
-
-# 🏆 Core Values
+# 📊 GitHub Analytics
 
 <div align="center">
 
-| Innovation | Performance | Scalability | Continuous Learning |
-| :--------: | :---------: | :---------: | :-----------------: |
-|    ⭐⭐⭐⭐⭐   |    ⭐⭐⭐⭐⭐    |    ⭐⭐⭐⭐⭐    |        ⭐⭐⭐⭐⭐        |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vaishnavigomase&show_icons=true&theme=github_dark_dimmed&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavigomase&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavigomase&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🎯 Expertise
+
+```yaml
+Languages:
+  - Java
+  - JavaScript
+
+Frameworks:
+  - Spring Boot
+  - React
+
+Databases:
+  - MySQL
+
+Tools:
+  - Git
+  - GitHub
+  - Postman
+  - VS Code
+```
+
+---
+
+# 🌱 Current Focus
+
+◉ Advanced Spring Boot
+
+◉ JWT Authentication
+
+◉ Microservices
+
+◉ System Design
+
+◉ Full Stack Enterprise Applications
+
+---
+
 <div align="center">
 
-## 📫 Connect With Me
+## ⚡ "Turning Ideas into Reliable Software"
 
-### GitHub
+<img src="https://komarev.com/ghpvc/?username=Vaishnavigomase&style=for-the-badge&color=blue"/>
 
-**github.com/Vaishnavigomase**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Vaishnavigomase&label=Profile+Views&style=for-the-badge"/>
-
-<br><br>
-
-### 💡 Developer Philosophy
-
-> **"Building reliable software with clean code, continuous learning, and a passion for solving real-world problems."**
-
-<br>
-
-⭐ **Thank you for visiting my profile. Happy Coding!**
+### ⭐ Thanks for Visiting ⭐
 
 </div>
