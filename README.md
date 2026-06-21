@@ -1,231 +1,180 @@
 <div align="center">
 
-# 👋 Hi, I'm Vaishnavi Gomase
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F6FEB,100:58A6FF&text=VAISHNAVI%20GOMASE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-### Full Stack Java Developer • React Developer • Spring Boot Enthusiast
+# <span style="color:#58A6FF">Full Stack Java Developer</span>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Java+Developer;Building+Scalable+Web+Applications;Spring+Boot+%7C+React+%7C+MySQL;Clean+Code+%7C+Modern+Architecture;Always+Learning+%26+Growing"/>
+### Java • Spring Boot • React • MySQL • REST APIs
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Java+%7C+Spring+Boot+%7C+React;Clean+Code+%7C+Scalable+Architecture;Always+Learning+Always+Growing"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-# 💼 Professional Summary
+# 🚀 About Me
 
-Passionate **Full Stack Java Developer** with experience in building responsive, scalable, and user-friendly web applications using **Java, Spring Boot, React, REST APIs, and MySQL**.
+```yaml
+Name: Vaishnavi Gomase
 
-Strong understanding of software development principles, backend architecture, API development, database management, and modern frontend technologies.
+Role: Full Stack Java Developer
 
-Focused on writing clean, maintainable code and delivering efficient digital solutions.
+Education:
+  - B.E Computer Engineering (Final Year)
+  - B.Com (YCMOU)
 
----
+Passion:
+  - Web Development
+  - Software Engineering
+  - Problem Solving
 
-# 🚀 Developer Snapshot
-
-```java
-public class VaishnaviGomase {
-
-    String role = "Full Stack Java Developer";
-
-    String[] frontend = {
-        "React.js",
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "Tailwind CSS"
-    };
-
-    String[] backend = {
-        "Java",
-        "Spring Boot",
-        "Hibernate",
-        "Spring Security",
-        "REST APIs"
-    };
-
-    String database = "MySQL";
-
-    String currentFocus = "Microservices & Enterprise Applications";
-
-    String motto = "Transforming Ideas Into Scalable Software";
-}
+Goal:
+  - Software Engineer
 ```
 
 ---
 
-# ⚙️ Technology Stack
+# 💎 Tech Stack
 
-## Frontend
+<div align="center">
 
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
+| Category | Technologies |
+|-----------|-------------|
+| 🎨 Frontend | React.js, JavaScript, HTML5, CSS3, Tailwind CSS |
+| ⚙ Backend | Java, Spring Boot, Hibernate, Spring Security |
+| 🗄 Database | MySQL, SQL, JPA |
+| 🔗 API | REST APIs |
+| 🛠 Tools | Git, GitHub, VS Code, STS, Postman |
 
-## Backend
-
-- Java
-- Spring Boot
-- Spring Security
-- Hibernate
-- RESTful APIs
-
-## Database
-
-- MySQL
-- SQL
-- JPA
-
-## Tools & Platforms
-
-- Git
-- GitHub
-- Postman
-- VS Code
-- Spring Tool Suite (STS)
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Project
 
 ## 🎓 College Admission Management System
 
-### Tech Stack
-
-```yaml
-Frontend:
-  - React.js
-
-Backend:
-  - Spring Boot
-
-Database:
-  - MySQL
-
-Architecture:
-  - MVC
-
-Communication:
-  - REST API
-```
-
-### Features
-
-✔ Student Registration Management
-
-✔ Admission Application Portal
-
-✔ Contact & Enquiry System
-
-✔ CRUD Operations
-
-✔ Responsive Dashboard
-
-✔ Database Integration
-
-✔ REST API Architecture
-
----
-
-## 🌐 Personal Portfolio Website
-
-### Highlights
-
-- Modern Responsive UI
-- Project Showcase
-- Skills Presentation
-- Contact Integration
-- Optimized Performance
-- Mobile Friendly Design
-
----
-
-# 📈 GitHub Statistics
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaishnavigomase&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavigomase&layout=compact&theme=github_dark&hide_border=true"/>
+| Module | Description |
+|---------|-------------|
+| 👨‍🎓 Student Management | Registration & Profile Management |
+| 📝 Admission Portal | Online Admission Process |
+| 📞 Contact Module | Enquiry Handling |
+| 📊 Dashboard | Responsive Admin Dashboard |
+| 🔄 CRUD Operations | Complete Data Management |
 
 </div>
 
-<div align="center">
+### Tech Used
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavigomase&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Core Competencies
-
-### Software Development
-
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- RESTful API Development
-- MVC Architecture
-- Database Design
-
-### Full Stack Development
-
-- Frontend Development
-- Backend Development
-- Authentication & Authorization
-- API Integration
-- Responsive Web Design
-
----
-
-# 🌱 Currently Learning
-
-```yaml
-Advanced Spring Boot:
-  - JWT Authentication
-  - Spring Security
-
-Backend:
-  - Microservices Architecture
-  - API Gateway
-
-Software Engineering:
-  - System Design
-  - Design Patterns
-
-Cloud:
-  - Deployment & DevOps Basics
+```text
+React.js
+Spring Boot
+MySQL
+REST API
+MVC Architecture
 ```
 
 ---
 
-# 📫 Connect With Me
+# 📊 GitHub Analytics
 
-- 💼 LinkedIn
-- 💻 GitHub
-- 📧 Email
+<div align="center">
 
-(Add your profile links here)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vaishnavigomase&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavigomase&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavigomase&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Professional Skills
+
+<div align="center">
+
+| Skill | Level |
+|--------|--------|
+| Java | ██████████ 90% |
+| Spring Boot | █████████ 85% |
+| React.js | █████████ 85% |
+| MySQL | ████████ 80% |
+| REST APIs | █████████ 85% |
+| Git & GitHub | ████████ 80% |
+
+</div>
+
+---
+
+# 🌱 Current Learning
+
+🔹 Advanced Spring Boot
+
+🔹 JWT Authentication
+
+🔹 Spring Security
+
+🔹 Microservices
+
+🔹 System Design
+
+🔹 Docker
+
+🔹 AWS Cloud
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavigomase&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⚡ Turning Ideas Into Enterprise Solutions
+## ⚡ Turning Ideas Into Scalable Software
 
-<img src="https://komarev.com/ghpvc/?username=Vaishnavigomase&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Vaishnavigomase&style=for-the-badge&color=58A6FF"/>
 
-### ⭐ Thank You For Visiting My Profile ⭐
-
-#### Building • Learning • Growing
+### ⭐ Thanks For Visiting ⭐
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0D1117,50:1F6FEB,100:58A6FF"/>
